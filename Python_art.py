@@ -34,7 +34,7 @@ def CharacterU(c, thickness):
         print(c*thickness*4)
 
 def main():
-    print('\nExercise 2')
+    print('\nExercise 2 - Python art')
     try:
         print('Enter character: \'U\', \'T\', \'H\' ')
         c = str(input())

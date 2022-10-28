@@ -1,6 +1,6 @@
 def Rug_designer():
 
-    print('\nExercise 5')
+    print('\nExercise 5 - Rug designer')
     try:
         print('Enter height')
         height = int(input())
